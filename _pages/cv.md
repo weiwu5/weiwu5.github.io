@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Atmospheric Sciences, Sun Yat-Sen University, 2009
+* M.S. in Meteorology, Institute of Atmospheric Physics, Chinese Academy of Sciences, 2012
+* Ph.D in Atmospheric Sciences, University of Illinois at Urbana-Champaign, 2017 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017.06-2018.05: Postdoctoral Research Scientist
+  * NCAR and University of Wyoming
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018.05 - : Research Scientist
+  * CIMMS, University of Oklahoma
+
   
 Skills
 ======
